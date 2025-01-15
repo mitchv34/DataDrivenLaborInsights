@@ -9,6 +9,9 @@ __pycache__/
 # history
 .history/
 
+#Api keys
+api_key_bls
+
 # C extensions
 *.so
 
