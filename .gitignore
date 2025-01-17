@@ -9,6 +9,9 @@ __pycache__/
 # history
 .history/
 
+# Large data files
+LCA_Disclosure_Skills/data/raw/
+
 #Api keys
 api_key_bls
 
